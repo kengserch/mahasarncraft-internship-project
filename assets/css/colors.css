@@ -1,0 +1,516 @@
+/*-----------------------------------------------------
+Table of Contents
+
+- # color #000
+- # background #000
+- # background #121212
+- # color #212121
+- # background #212121
+- # color #333
+- # background #333
+- # color #555
+- # color #777
+- # color #999
+- # background #ccc
+- # background #aaa
+- # background #ddd
+- # background #eee
+- # background #f1f1f1
+- # background #f5f5f5
+- # background #f7f7f7
+- # background #f8f8f8
+- # color #fff 
+- # background #fff
+- # background #311b92
+- # color #311b92
+- # background #ffddcc
+- # color #562fff
+- # background #562fff
+- # background #4325c8
+- # color #f50057
+- # background #f50057
+
+------------------------------------------------------*/
+
+
+/*-----------------------------------------------------
+# color #000
+------------------------------------------------------*/
+
+.footer-light a,
+.mobile-navigation a,
+.read-more,
+.blog-block_01 .blog-post .entry-title a,
+.contact-form_01 input::placeholder,
+.contact-form_01 textarea::placeholder,
+.read-more_02,
+.blog-block_02 a,
+.header-with-buttons .navigation ul li a,
+.portfolio-metro_01 .portfolio-item-title,
+.irregular-grid-2-columns .portfolio-item-info,
+.portfolio-grid-2-columns .portfolio-item-info,
+.header-aside .social-icons a,
+.contact-form_02 input::placeholder,
+.contact-form_02 textarea::placeholder,
+.contact-me-page .contact-me-info ul li,
+.blog-list .blog-post .entry-title a,
+.category-page .item .item-heading a,
+.search-result-page .item .item-heading a,
+.blog-post-single .entry-details .meta a,
+.entry-footer .share-links li a,
+.about-author .author-info a,
+.related-posts .entry-title a,
+.comment .content .reply,
+.recent-post .entry-title a,
+.header-icons a,
+.next-project h1 a,
+.previews .previews-img-overlay h3,
+.navigation .sub-nav li a,
+.portfolio-metro_01 .portfolio-item-category,
+.header-default .navigation ul li a {
+	color: #000;
+}
+
+.footer-light a:hover {
+	color: rgba(0, 0, 0, .7);
+}
+
+/*-----------------------------------------------------
+# background #000
+------------------------------------------------------*/
+
+.open-nav i,
+.open-nav i:before,
+.open-nav i:after,
+.testimonials_01 .owl-carousel button.owl-dot.active,
+.secondary-heading_02:before,
+.read-more:before,
+.read-more_02:after,
+.photography .photography-carousel button.owl-prev:hover,
+.photography .photography-carousel button.owl-next:hover,
+.portfolio-split-screen .split-carousel button.owl-prev:hover,
+.portfolio-split-screen .split-carousel button.owl-next:hover,
+.entry-footer .tag-links span,
+.related-posts .header,
+.comments .header,
+.leave-comment .header,
+.secondary-heading_03 span:after {
+	background: #000;
+}
+
+.mobile-navigation-overlay,
+.photo-category-overlay {
+	background: rgba(0, 0, 0, .7);
+}
+
+.testimonials_01 .owl-carousel button.owl-dot {
+	background: rgba(0, 0, 0, .5);
+}
+
+/*-----------------------------------------------------
+# background #121212
+------------------------------------------------------*/
+.portfolio-minimal-metro,
+.about-us-page_02 .cta-block_04,
+.icon-box_01-item .icon {
+	background: #121212;
+}
+
+/*-----------------------------------------------------
+# color #212121
+------------------------------------------------------*/
+
+.about-us-page_02 .icon-box_03 i,
+.blog-list .blog-post .publication-date,
+.blog-post-single .entry-details .extra a {
+	color: #212121;
+}
+
+/*-----------------------------------------------------
+# background #212121
+------------------------------------------------------*/
+
+.testimonials_01 .decor,
+.footer-dark,
+.features-block_01,
+.services-block_01 .services-items .icon,
+.featured-works_01,
+.pricing_01 .pricing-item header,
+.testimonials_02,
+.clients-inverse,
+.facts-dark {
+	background: #212121;
+}
+
+/*-----------------------------------------------------
+# color #333
+------------------------------------------------------*/
+.entry-footer .tag-links a,
+.widget-categories li a,
+.icon-box_01-item p {
+	color: #333;
+}
+
+/*-----------------------------------------------------
+# background #333
+------------------------------------------------------*/
+.contact-form_01  textarea::-webkit-scrollbar-thumb,
+.contact-form_02  textarea::-webkit-scrollbar-thumb {
+    background: #333; 
+}
+
+/*-----------------------------------------------------
+# color #555
+------------------------------------------------------*/
+
+.pricing_01 .pricing-table li i,
+.blog-block_02 .blog-category:hover,
+.blog-block_02 .entry-title a:hover,
+.contact-me-page .contact-me-info ul li span,
+.entry-content figcaption {
+	color: #555;
+}
+
+/*-----------------------------------------------------
+# color #777
+------------------------------------------------------*/
+
+.blog-list .blog-post p,
+.page-404 .search-form span,
+.project-details_01 li span,
+.extended-project-details_01 li span,
+.extended-project-details_02 li span,
+.project-intro_02 ul li,
+.index-page header p {
+	color: #777;
+}
+
+
+/*-----------------------------------------------------
+# color #999
+------------------------------------------------------*/
+
+.team-member .member-info h3 {
+	color: #999;
+}
+
+/*-----------------------------------------------------
+# background #ccc
+------------------------------------------------------*/
+.header-icons .menu li:last-child:after {
+	background: #ccc;
+}
+
+/*-----------------------------------------------------
+# background #aaa
+------------------------------------------------------*/
+
+.entry-content blockquote .cite:before {
+	background: #aaa;
+}
+
+/*-----------------------------------------------------
+# background #ddd
+------------------------------------------------------*/
+.contact-form_01 textarea::-webkit-scrollbar-track,
+.contact-form_02 textarea::-webkit-scrollbar-track,
+.blog-post-single .entry-details .meta .publication-date:after {
+    background: #ddd; 
+}
+
+/*-----------------------------------------------------
+# background #eee
+------------------------------------------------------*/
+.cta-block_03,
+.entry-footer .share-links li,
+.blog-post-single .entry-details .extra .share-links li,
+.portfolio-details {
+	background: #eee;
+}
+
+/*-----------------------------------------------------
+# background #f1f1f1
+------------------------------------------------------*/
+
+.cta-block_01,
+.pricing-item,
+.facts-light,
+.hero-single-project_02,
+.project-screenshot {
+	background: #f1f1f1;
+}
+
+/*-----------------------------------------------------
+# background #f5f5f5
+------------------------------------------------------*/
+
+.about-us_04 {
+	background: #f5f5f5;
+}
+
+/*-----------------------------------------------------
+# background #f7f7f7
+------------------------------------------------------*/
+
+.video-block_01 .video-info,
+.next-project,
+.info-block_09 {
+	background: #f7f7f7;
+}
+
+/*-----------------------------------------------------
+# background #f8f8f8
+------------------------------------------------------*/
+
+.info-block_04 {
+	background: #f8f8f8;
+}
+
+/*-----------------------------------------------------
+# color #fff 
+------------------------------------------------------*/
+
+.header-inverse .navigation > ul > li > a,
+.hero-design-studio .secondary-heading,
+.hero-design-studio h1,
+.icon-box_01-item i,
+.footer-dark,
+.footer-dark a,
+.hero-digital-agency h1,
+.hero-digital-agency p,
+.full-width-navigation a,
+.features-block_01,
+.services-block_01 .services-items .icon,
+.featured-works_01,
+.pricing_01 .pricing-item header,
+.testimonials_02,
+.facts-dark,
+.hero-creative-agency,
+.pricing_02 .pricing-item header,
+.hero-architecture,
+.info-block_02,
+.app-landing_01 .facts_01,
+.cta-block_04,
+.hero-app-landing_02,
+.app-landing_02 .testimonials_03,
+.accordion h2,
+.photo-category-overlay,
+.photography .photography-carousel button.owl-prev:hover,
+.photography .photography-carousel button.owl-next:hover,
+.portfolio-split-screen .split-carousel button.owl-prev:hover,
+.portfolio-split-screen .split-carousel button.owl-next:hover,
+.portfolio-minimal-metro .info-block_06,
+.portfolio-minimal-metro .info-block_06 .read-more_02,
+.footer-minimal-inverse,
+.footer-minimal-inverse a,
+.irregular-grid-3-columns .portfolio-item-info,
+.portfolio-metro_02 .portfolio-item-info,
+.portfolio-minimal-grid_01 .hero,
+.portfolio-grid-2-columns-style_02 .portfolio-item-info,
+.category-page header,
+.search-result-page header,
+.entry-footer .tag-links span,
+.entry-footer .share-links li:hover a,
+.related-posts .header,
+.comments .header,
+.leave-comment .header,
+.blog-post-single .entry-details .extra .share-links li:hover a,
+.search-overlay .close-search,
+.search-overlay .search-form input[type=search],
+.search-overlay .search-form input::placeholder,
+.page-404 {
+	color: #fff;
+}
+
+.header-inverse .navigation > ul > li > a:hover,
+.footer-dark a:hover,
+.footer-portfolio-metro a:hover {
+	color: rgba(255, 255, 255, .6);
+}
+
+/*-----------------------------------------------------
+# background #fff
+------------------------------------------------------*/
+
+.open-nav-inverse i,
+.open-nav-inverse i:before,
+.open-nav-inverse i:after,
+.mobile-navigation,
+.hero-digital-agency .btn:hover,
+.hero-creative-agency .btn:hover,
+.services-block_01 .services-image h2,
+.testimonials_02 .owl-carousel button.owl-dot.active,
+.app-landing_02 .testimonials_03 .owl-carousel button.owl-dot.active,
+.full-width-navigation nav li a:after,
+.full-width-navigation .social-links a:hover:after,
+.pricing_02 .pricing-item,
+.portfolio-metro_01 .portfolio-item .portfolio-item-overlay,
+.irregular-grid-2-columns .portfolio-item-overlay,
+.about-us_03 .about-info,
+.portfolio-grid-2-columns .portfolio-item-overlay,
+.services-block_02 .services-items,
+.blog-block_02 .blog-post .content,
+.icon-box_03 .icon,
+.testimonials_03 .decor,
+.photography .photography-carousel button.owl-prev, 
+.photography .photography-carousel button.owl-next,
+.portfolio-split-screen .split-carousel button.owl-prev,
+.portfolio-split-screen .split-carousel button.owl-next,
+.portfolio-minimal-metro .info-block_06 .read-more_02:after,
+.team-member .member-overlay,
+.team_02 header h2,
+.page-404 .btn:hover,
+.hero-index .btn:hover,
+.previews .previews-img-overlay,
+.navigation .sub-nav {
+	background: #fff;
+}
+
+.testimonials_02 .owl-carousel button.owl-dot,
+.app-landing_02 .testimonials_03 .owl-carousel button.owl-dot {
+	background: rgba(255, 255, 255, .3);
+}
+
+/*-----------------------------------------------------
+# background #311b92
+------------------------------------------------------*/
+
+.full-width-navigation,
+.read-more:hover:before,
+.pricing_02 .pricing-item header,
+.about-us_03 .read-more_02:after,
+.info-block_06 .read-more_02:after,
+.portfolio-minimal-grid_01,
+.portfolio-minimal-grid_01 .cta-block_04,
+.info-block_06 h1 a:hover:after,
+.about-me-info .read-more_02:hover:after,
+.category-page header,
+.search-result-page header,
+.search-overlay,
+.page-404,
+.hero-index,
+.index-page .cta-block_04,
+.footer-index {
+	background: #311b92;
+}
+
+.irregular-grid-3-columns .portfolio-item-overlay,
+.portfolio-grid-2-columns-style_02 .portfolio-item-overlay {
+	background: rgba(52, 20, 150, .9);
+}
+
+/*-----------------------------------------------------
+# color #311b92
+------------------------------------------------------*/
+
+.mobile-navigation nav a:hover,
+.mobile-navigation .social-icons a:hover,
+.blog-block_01 .blog-category,
+.read-more:hover,
+.blog-block_01 .blog-post .entry-title a:hover,
+.contact-form_01 input:focus::placeholder,
+.contact-form_01 textarea:focus::placeholder,
+.pricing_02 .creative-agency-header h1,
+.pricing_02 .price,
+.price-purchase,
+.about-us_03 .read-more_02,
+.info-block_06 .read-more_02,
+.header-aside .social-icons a:hover,
+.about-me-info .read-more_02:hover,
+.blog-list .blog-post .blog-category:hover,
+.category-page .item .blog-category:hover,
+.search-result-page .item .blog-category:hover,
+.blog-post-single .blog-category:hover,
+.entry-footer .tag-links a:hover,
+.navigation .sub-nav li a:hover,
+.header-default .navigation ul li a:hover {
+	color: #311b92;
+}
+
+/*-----------------------------------------------------
+# background #ffddcc
+------------------------------------------------------*/
+.icon-box_02,
+.clients-creative-agency,
+.pricing_02 {
+	background: #ffddcc;
+}
+
+/*-----------------------------------------------------
+# color #562fff
+------------------------------------------------------*/
+
+.features-block_02 i,
+.info-block_02 a,
+.icon-box_03 i,
+.header-with-buttons .navigation ul li a:hover,
+.icon-box_04 .icon i,
+.header-icons a:hover {
+	color: #562fff;
+}
+
+/*-----------------------------------------------------
+# background #562fff
+------------------------------------------------------*/
+
+.info-block_02,
+.app-landing_01 .facts_01,
+.testimonials_03 .owl-carousel button.owl-dot.active,
+.cta-block_04,
+.hero-app-landing_02,
+.app-landing_02 .testimonials_03,
+.app-landing_02 .clients-inverse,
+.accordion header {
+	background: #562fff;
+}
+
+.testimonials_03 .owl-carousel button.owl-dot {
+	background: rgba(86, 47, 255, .5);
+}
+
+/*-----------------------------------------------------
+# background #4325c8
+------------------------------------------------------*/
+
+.accordion span {
+	background: #4325c8;
+}
+
+/*-----------------------------------------------------
+# color #f50057
+------------------------------------------------------*/
+
+.portfolio-minimal-metro .info-block_06 .read-more_02:hover,
+.info-block_06 h1 span,
+.blog-list .blog-post .blog-category,
+.blog-list .blog-post .entry-title:hover a,
+.category-page .item .blog-category,
+.search-result-page .item .blog-category,
+.blog-post-single .blog-category,
+.blog-post-single .entry-details .meta a:hover,
+.about-author .author-info a:hover,
+.related-posts .entry-title a:hover,
+.comment .content .reply:hover,
+.recent-post .entry-title a:hover,
+.widget-categories li a:hover,
+.entry-details .extra .share-icon:hover,
+.entry-details .extra .comment-icon:hover a,
+.category-page .item-heading:hover a,
+.search-result-page .item-heading:hover a {
+	color: #f50057;
+}
+
+/*-----------------------------------------------------
+# background #f50057
+------------------------------------------------------*/
+
+.portfolio-minimal-metro .info-block_06 .read-more_02:hover:after,
+.info-block_06 h1 span:after,
+.entry-footer .share-links li:hover,
+.blog-post-single .entry-details .extra .share-links li:hover {
+	background: #f50057;
+}
+
+.portfolio-metro_02 .portfolio-item-overlay {
+	background: rgba(245, 0, 87, .8);
+}
